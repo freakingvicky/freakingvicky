@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @freakingvicky
-- 👀 I’m interested in Python and Machine Learning.
+- 👀 I’m interested in Python and Data Engineering.
 - 🌱 I’m currently learning Cloud services.
 - 💞️ I’m looking to collaborate on Cloud and Data.
 - 📫 How to reach me-vikramnath98@gmail.com
